@@ -1,5 +1,7 @@
-function upperCaser(input){
-    return input.toUpperCase();
+function checkUsersValid(goodUsers) {
+    return function allUsersValid(submittedUsers) {
+    // SOLUTION GOES HERE
+    };
 }
 
-module.exports = upperCaser;
+module.exports = checkUsersValid;
